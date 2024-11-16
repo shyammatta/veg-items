@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/veg-items/static/css/main.5ac67ded.css",
-    "main.js": "/veg-items/static/js/main.b697fc89.js",
+    "main.js": "/veg-items/static/js/main.3780cb7b.js",
     "static/media/berakaya.webp": "/veg-items/static/media/berakaya.41eec912b6f60df934b1.webp",
     "static/media/dondakaya.jpg": "/veg-items/static/media/dondakaya.df6f659dcd1f19b860e3.jpg",
     "index.html": "/veg-items/index.html",
     "main.5ac67ded.css.map": "/veg-items/static/css/main.5ac67ded.css.map",
-    "main.b697fc89.js.map": "/veg-items/static/js/main.b697fc89.js.map"
+    "main.3780cb7b.js.map": "/veg-items/static/js/main.3780cb7b.js.map"
   },
   "entrypoints": [
     "static/css/main.5ac67ded.css",
-    "static/js/main.b697fc89.js"
+    "static/js/main.3780cb7b.js"
   ]
 }
