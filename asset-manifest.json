@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ac67ded.css",
+    "main.js": "/static/js/main.f593e087.js",
+    "static/media/berakaya.webp": "/static/media/berakaya.41eec912b6f60df934b1.webp",
+    "static/media/dondakaya.jpg": "/static/media/dondakaya.df6f659dcd1f19b860e3.jpg",
+    "index.html": "/index.html",
+    "main.5ac67ded.css.map": "/static/css/main.5ac67ded.css.map",
+    "main.f593e087.js.map": "/static/js/main.f593e087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac67ded.css",
+    "static/js/main.f593e087.js"
+  ]
+}
